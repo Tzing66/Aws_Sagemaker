@@ -1,0 +1,1 @@
+This file is my attempt at hosting an ML model on AWS using Sagemaker. It includes creating a job, moving the outputs, and also creating a copy of the model to use as an endpoint for deployment purposes.
